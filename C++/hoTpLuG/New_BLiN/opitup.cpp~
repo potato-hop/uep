@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	int n, z, b, y = 1, h;
+	cin >> n;
+	b = n;
+	while(b > 0)
+	{
+		h = b % 2;
+	    b = (n - h) / 2;
+	    y = 10 * y;
+		z = h * y;
+	}
+	z = z / 10;
+	cout << z;
+}

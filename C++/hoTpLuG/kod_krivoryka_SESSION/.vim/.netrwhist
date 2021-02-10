@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/usr/home/sav/.sharelin'
+let g:netrw_dirhist_2='/usr/home/sav/prj/canvas'
+let g:netrw_dirhist_3='/mnt/pub/doc/edu'
+let g:netrw_dirhist_4='/usr/home/sav/prj'
+let g:netrw_dirhist_5='/home/sav/.vim'
+let g:netrw_dirhist_6='/home/sav/doc/edu/math10'
